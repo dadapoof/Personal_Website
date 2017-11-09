@@ -1,0 +1,195 @@
+body {
+		color: white;
+		font-family: 'Montserrat', sans-serif;
+		background-color: #3B3C3B;
+		margin: 0px;
+
+
+	}
+
+
+
+
+	.title {
+
+
+		font-size: 35px;
+		color: white;
+		font-family: 'Montserrat', sans-serif;
+		display: flex;
+		justify-content: center;
+		flex-direction: row;
+		height: 100px;
+
+
+	}
+
+
+
+
+	.header ul {
+
+
+		display: flex;
+		font-family: 'Montserrat', sans-serif;
+		font-size: 18px;
+		justify-content: center;
+
+
+	}
+
+
+	.Download {
+		text-align: center;
+	}
+
+
+	.Download a {
+		padding: 5px;
+		border: 2px solid white;
+		border-radius: 15px;
+		font-size: 30px;
+
+
+	}
+
+
+	.Download a:hover {
+		color: #3B3C3B;
+		background-color: #0CD3C9;
+	}
+
+
+	.Download h3 {
+		font-size: 20px;
+		margin-left: 20px;
+		padding-top: 20px;
+		padding-bottom: 100px;
+		text-align: center;
+	}
+
+
+
+
+	.footer {
+		margin-top: 150px;
+		border-top: 2px solid white;
+		padding-left: 10px;
+	}
+
+
+	.other-websites h2 {
+		font-size: 30px;
+	}
+
+
+	.other-websites a {
+		font-size: 14px;
+	}
+
+
+	.grow a {
+		-webkit-transition: font-size 0.01s;
+		-ms-transition: font-size 0.01s;
+		-moz-transition: font-size 0.01s;
+		opacity: 0.9;
+	}
+
+
+	.grow a:hover {
+		font-size: 16px;
+	}
+
+
+	.social-media {
+		padding-top: 20px;
+		display: flex;
+	}
+
+
+	.social-media img {
+		padding-right: 10px;
+	}
+
+
+	.social-media img:hover {
+		opacity: 0.4;
+	}
+
+
+	.facebook {
+		font-size: 100%;
+	}
+
+
+	.linkedin {
+		font-size: 100%;
+	}
+
+
+	.github {
+		font-size: 100%;
+	}
+
+
+	#resume {
+		display: inline-flex;
+		border-color: white;
+	}
+
+
+	#resume a {
+		color: #0CD3C9;
+	}
+
+
+	#resume:hover a {
+		color: white;
+	}
+
+
+	li {
+		display: inline-flex;
+		padding-left: 25px;
+		padding-right: 25px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		margin-bottom: 40px;
+		border: 2px;
+		border-style: solid;
+		border-color: white;
+		color: white;
+	}
+
+
+	li:hover {
+		background-color: #0CD3C9;
+	}
+
+
+	a:link {
+		text-decoration: none;
+		color: white;
+	}
+
+
+	a:visited {
+		text-decoration: none;
+		color: white;
+	}
+
+
+	a:hover {
+		text-decoration: none;
+		color: white;
+
+
+	}
+
+
+	a:active {
+		text-decoration: none;
+		color: white;
+
+
+	}
