@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+
+
+			<title>David Massart's Website</title>
+			<meta charset="UTF-8">
+			<meta name="description" content="David Massart's Website Homepage">
+			<meta name="keywords" content="David, Massart, Personal, Website, DavidMassart, contactpage">
+
+
+			<link rel="stylesheet" href="contact.css">
+			<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+
+
+	</head>
+
+
+	<body>
+
+
+		
+		<div class="title">
+			<img class="logo" src="">
+			<h2>Contact Page</h2>
+		</div>
+
+
+		<div class="header">
+			<ul>
+				<li id="contact"><a href="#">Contact Me</a></li>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="resume.html">Resume</a></li>
+				<li><a href="projects.html">My Projects</a></li>
+			</ul>
+		</div>
+
+
+	<h2 id="h2">I'll Buy you Coffee! <br></br>(Ok maybe not, but let's still talk!)</h2>
+
+
+	<div class="content">
+
+
+			<h2>How you can contact me:</h2>
+
+
+			<div class="info" style="width: 25%">
+
+			<div class="myinfo">
+
+				<p>My email: damassart@aol.com<br></br>
+					Phone Number: (646) 725 9401</p>
+
+			</div>
+
+				<div class="media">
+
+				<a href="https://www.facebook.com/damassart"> <img class="facebook" src="img/facebooklogo.png" alt="Facebook Link"> </a>
+				<a href="https://www.linkedin.com/in/david-massart"> <img class="linkedin" src="img/linkedinlogo.png" alt="Linkedin Link"> </a>
+				<a href="https://github.com/dadapoof"> <img class="github" src="img/githublogo.png" alt="Github Link"> </a>
+
+				</div>
+
+			</div>
+
+
+	<form class="contactform" action="contact.php" method="post">
+
+		<div class="intro">
+			<span class="underline">Contact Form</span>
+			<p>(Please input your Name, email address, phone number (optional), and whatever question/information you have!)</p>
+		</div>
+
+		<fieldset name="contactinfo" style="width: 35%">
+
+		<label for="fullname" required>Full Name: </label>
+			<input placeholder="eg. John Doe" type="text" name="fullname" id="fullname" required/>
+
+		<label for="email" required>Email Address: </label>
+			<input placeholder="eg. johndoe@gmail.com" type="email" name="email" id="email" required/>
+
+		<label for="phone">Phone Number (Optional)</label>
+			<input placeholder="eg. 888-888-8888" type="tel" pattern="[0-9/-]*" name="phone" id="phone" title="A typical phone number" />
+
+		<p>Any Questions/Comments go down here!</p>
+		<textarea placeholder="eg. Hi! My Name is..." name="textarea" rows="20" cols="60"></textarea>
+
+		<section>
+			<label class="question" for="who">Who Are You?</label>
+			<select name="who" id="who" required>
+				<option selected>College Student</option>
+				<option>High School Student</option>
+				<option>A Fan</option>
+				<option>Recruiter</option>
+				<option>Other</option>
+			</select>
+		</section>
+
+		<button name="submit" type="submit">Submit</button>
+		<button name="reset" type="reset">Reset</button>
+
+	</fieldset>
+
+
+	</form>
+
+	<?php include 'contact.php';?>
+
+
+
+	</div>
+
+
+
+<h2 id="end">Thanks for stopping by!</h2>
+
+
+
+	<div class="footer">
+		<div class="other-websites">
+		<h2>Other Websites</h2>
+		<div class="grow">
+		<a href="First website link">Rate My Plate</a> <br></br>
+		<a href="Second website link">Love Letter Online</a> <br> </br>
+		<a href="Third website link">Sucasa Apartment in NYC</a> <br> </br>
+		<a href="Fourth website link">Modified Battleship Online</a> <br> </br>
+		<a href="Fifth website link">Online Analog Clock</a> <br> </br>
+		</div>
+		</div>
+
+
+	<div class="social-media">
+		<a href="https://www.facebook.com/damassart"> <img class="facebook" src="img/facebooklogo.png" alt="Facebook Link"> </a>
+		<a href="https://www.linkedin.com/in/david-massart"> <img class="linkedin" src="img/linkedinlogo.png" alt="Linkedin Link"> </a>
+		<a href="https://github.com/dadapoof"> <img class="github" src="img/githublogo.png" alt="Github Link"> </a>
+		</div>
+		<p>&copy; 2017 All rights reserved. davidmassart.com</p>
+	</div>
+
+
+	</body>
+	</html>
