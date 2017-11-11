@@ -44,10 +44,20 @@ body {
 
 	.media {
 		margin-top: 30px;
+
+	}
+
+	.git {
 	}
 
 	.media img {
 		padding-bottom: 30px;
+		padding-right: 10px;
+		font-size: 100%;
+	}
+
+	.media img:hover {
+		opacity: 0.4;
 	}
 
 	.myinfo p {
@@ -260,6 +270,5 @@ body {
 	a:active {
 		text-decoration: none;
 		color: white;
-
 
 	}
