@@ -4,10 +4,7 @@ body {
 		background-color: #3B3C3B;
 		margin: 0px;
 
-
 	}
-
-
 
 
 	.title {
@@ -21,10 +18,7 @@ body {
 		flex-direction: row;
 		height: 100px;
 
-
 	}
-
-
 
 
 	.header ul {
@@ -72,15 +66,21 @@ body {
 	.page-content h2 {
 
 
-		font-size: 100px;
+		font-size: 80px;
 		color: #3B3C3B;
 		margin-top: 0px;
+		margin-left: 5px;
+	}
+
+
+	.page-content {
+		padding-right: 20px;
 	}
 
 
 	.about-me {
 		margin-top: 50px;
-		background-color: #0CD3C9;
+		background-color: #078C85;
 		color: #3B3C3B;
 		margin-bottom: 0px;
 	}
@@ -95,13 +95,13 @@ body {
 
 
 	.about-me p {
-		padding-bottom: 500px;
+		padding-bottom: 300px;
 		margin-bottom : 0px;
 	}
 
 
 	.question1 {
-		background: #08AFA7;
+		background: #03726c;
 		margin-bottom: 0px;
 		margin-top: 0px;
 	}
