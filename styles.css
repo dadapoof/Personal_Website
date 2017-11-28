@@ -72,15 +72,20 @@ body {
 		margin-left: 5px;
 	}
 
+	.page-content p {
+		padding-right: 20px;
+		font-size: 15px;
+	}
+
 
 	.page-content {
-		margin-right: 20px;
+		color: #3B3C3B;
 	}
 
 
 	.about-me {
 		margin-top: 50px;
-		background-color: #078C85;
+		background-color: #03726c;
 		color: #3B3C3B;
 		margin-bottom: 0px;
 	}
@@ -95,55 +100,12 @@ body {
 
 
 	.about-me p {
-		padding-bottom: 300px;
-		margin-bottom : 0px;
-	}
-
-
-	.question1 {
-		background: #03726c;
-		margin-bottom: 0px;
-		margin-top: 0px;
-	}
-
-
-	.question1 img {
-		width: 300px;
-		height: 420px;
-		float: left;
-		padding-right: 30px;
-
-
-	}
-
-
-	.question1 p {
-		padding-bottom: 500px;
+		padding-bottom: 3%;
 		margin-bottom: 0px;
 	}
 
 
-	.question2 {
-		background: #078C85;
-		margin-bottom: 0px;
-		margin-top: 0px;
-	}
 
-
-
-
-	.question2 img {
-		width: 300px;
-		height: 420px;
-		float: left;
-		padding-right: 30px;
-	}
-
-
-	.question2 p {
-		padding-bottom: 500px;
-		margin-bottom: 0px;
-	}
 
 
 	.footer {
@@ -219,6 +181,12 @@ body {
 
 	#home:hover a {
 		color: white;
+	}
+
+	#passion4code {
+		display: block;
+		text-align: center;
+		padding-top: 20px;
 	}
 
 

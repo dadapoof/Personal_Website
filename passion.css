@@ -1,0 +1,103 @@
+body {
+		background: #03726c;
+		font-family: 'Montserrat', sans-serif;
+		margin: 0px;
+		color: #3B3C3B;
+
+
+}
+
+h2 {
+		font-size: 80px;
+		color: #3B3C3B;
+		margin-top: 0px;
+		margin-left: 5px;
+}
+
+.header ul {
+		display: flex;
+		font-family: 'Montserrat', sans-serif;
+		font-size: 18px;
+		justify-content: center;
+	}
+
+
+
+
+.question1 {
+		margin-bottom: 0px;
+		margin-top: 0px;
+	}
+
+
+	.question1 img {
+		width: 300px;
+		height: 420px;
+		float: left;
+		padding-right: 30px;
+
+
+	}
+
+
+	.question1 p {
+		margin-bottom: 20px;
+	}
+
+	li {
+		display: inline-flex;
+		padding-left: 25px;
+		padding-right: 25px;
+		padding-top: 15px;
+		padding-bottom: 15px;
+		margin-bottom: 40px;
+		border: 2px;
+		border-style: solid;
+		border-color: #3B3C3B;
+		color: #3B3C3B;
+	}
+
+	#home {
+		border-right: 1px;
+	}
+
+	#projects {
+		border-right: 1px;
+	}
+
+	#resume {
+		border-right: 1px;
+	}
+
+
+	li:hover {
+		background-color: #0CD3C9;
+	}
+
+
+	a:link {
+		text-decoration: none;
+		color: #3B3C3B;
+	}
+
+
+	a:visited {
+		text-decoration: none;
+		color: #3B3C3B;
+	}
+
+
+	a:hover {
+		text-decoration: none;
+		color: #3B3C3B;
+
+
+	}
+
+
+	a:active {
+		text-decoration: none;
+		color: #3B3C3B;
+
+
+	}
