@@ -184,11 +184,13 @@ body {
 	}
 
 	#passion4code {
-		padding-top: 20px;
+		padding-top: 10px;
+		padding-bottom: 10px;
 		display: block;
-		width: 25%;
+		width: 26%;
 		margin: auto;
 		text-align: center;
+		border: 2px solid #3B3C3B;
 	}
 
 
