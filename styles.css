@@ -95,17 +95,14 @@ body {
 		float: left;
 		width: 300px;
 		height: 420px;
-		padding-right: 30px;
+		padding-right: 15px;
 	}
 
 
 	.about-me p {
-		padding-bottom: 3%;
+		padding-bottom: 4%;
 		margin-bottom: 0px;
 	}
-
-
-
 
 
 	.footer {
