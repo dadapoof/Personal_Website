@@ -104,6 +104,15 @@ body {
 		margin-bottom: 0px;
 	}
 
+	.edits {
+
+		text-align: center;
+	}
+	
+	#blog {
+		color: #3B3C3B;
+		text-decoration: underline;
+	}
 
 	.footer {
 		margin-left: 10px;
