@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+
+
+			<title>David Massart's Blog</title>
+			<meta charset="UTF-8">
+			<meta name="description" content="David Massart's Blog">
+			<meta name="keywords" content="David, Massart, Personal, Blog, DavidMassart">
+			<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+
+
+
+	</head>
+
+
+	<body>
+		
+		<h1 style="text-align: center; font-size: 60px"><code>&lt;David's Thoughts&gt;</code></h1>
+		<nav style="margin-top: 30px" class="navbar navbar-default">
+		  <div class="container-fluid">
+		    <div class="navbar-header">
+		      <a class="navbar-brand" href="blog">David's Thoughts</a>
+		    </div>
+		    <ul class="nav navbar-nav">
+		      <li><a href="/blog-cs">Computer Science Related</a></li>
+		      <li><a href="/blog-ncs">Non-Computer Science</a></li>
+		      <li><a href="/ssw">Short Stories/Writing</a></li>
+		      <li class="active"><a href="/p">Personal</a></li>
+		    </ul>
+		  </div>
+		</nav>
+
+		<div class="container">
+			<a href="blog/00-welcome"><div class="jumbotron">
+				<h2>Welcome to David's Thoughts</h2>
+				<p>A Blog about the many things that traverse my mind in an attempt to spark conversations and reflect upon certain thoughts.</p>
+			</div></a>
+		</div>
+
+
+
+
+
+	</body>
+	</html>

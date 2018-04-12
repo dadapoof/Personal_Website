@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+
+
+			<title>David Massart's Blog</title>
+			<meta charset="UTF-8">
+			<meta name="description" content="David Massart's Blog">
+			<meta name="keywords" content="David, Massart, Personal, Blog, DavidMassart">
+			<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+
+
+
+	</head>
+
+
+	<body>
+		
+		<h1 style="text-align: center; font-size: 60px"><code>&lt;David's Thoughts&gt;</code></h1>
+		<nav style="margin-top: 30px" class="navbar navbar-default">
+		  <div class="container-fluid">
+		    <div class="navbar-header">
+		      <a class="navbar-brand" href="blog">David's Thoughts</a>
+		    </div>
+		    <ul class="nav navbar-nav">
+		      <li><a href="blog-cs">Computer Science Related</a></li>
+		      <li><a href="blog-ncs">Non-Computer Science</a></li>
+		      <li><a href="ssw">Short Stories/Writing</a></li>
+		      <li><a href="p">Personal</a></li>
+		    </ul>
+		  </div>
+		</nav>
+
+		<div class="container">
+			<div class="jumbotron">
+				<h2>Welcome to My Blog!</h2>
+				<p>
+					Here you will find discussions and my personal opinions on both Computer Science Related Topics and Non-Computer Science Related Topics. You will also find enticing Short Stories that I like to write when I am bored or simply when my imagination demands it. Lastly, you will find details about my personal life in the "Personal" section, where I will be giving updates on my career and achievements.
+					<br></br>
+					I created this blog partly because I wanted to put my ideas out there and partly because I enjoy writing, and what better way to combine Writing and Computer Science.
+					<br></br>
+					<a href="mailto:damassart@aol.com">Email me</a> if you have any questions, see something wrong, or want to debate!<br />
+					I am working on trying to implement a comments system. Updates will follow soon!
+				</p>
+			</div>
+		</div>
+
+
+
+
+
+	</body>
+	</html>

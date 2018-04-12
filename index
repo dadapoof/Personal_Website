@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+	<html>
+	<head>
+
+
+			<title>David Massart's Website</title>
+			<meta charset="UTF-8">
+			<meta name="description" content="David Massart's Website Homepage">
+			<meta name="keywords" content="David, Massart, Personal, Website, DavidMassart, homepage">
+
+
+			<link rel="stylesheet" href="styles.css">
+			<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+
+
+	</head>
+
+
+	<body>
+
+
+		
+		<div class="title">
+			<img class="logo" src="">
+			<h2>Hello!</h2>
+		</div>
+
+
+
+
+		<div class="header">
+			<ul>
+				<li id="home"><a href="#">Home</a></li>
+				<li><a href="resume">Resume</a></li>
+				<li><a href="projects">My Projects</a></li>
+				<li><a href="contact">Contact Me</a></li>
+			</ul>
+		</div>
+
+
+
+
+		<div class="logos">
+
+
+			<div class="firstlogos">
+				<img class="c++" src="img/logo1.png">
+				<img class="html" src="img/logo2.png">
+				<img class="python" src="img/logo3.png">
+				<img class="java" src="img/logo4.png">
+			</div>
+
+
+
+
+			<div class="intro">
+				<img class="nodejs" src="img/logo5.png">
+				<h2>The Road To A Computer Science Life...</h2>
+				<img class="ruby" src="img/logo6.png">
+			</div>
+
+
+
+
+			<div class="lastlogos">
+				<img class="c" src="img/logo7.png">
+				<img class="php" src="img/logo8.png">
+				<img class="swift" src="img/logo9.png">
+				<img class="sql" src="img/logo10.png">
+			</div>
+
+
+		</div>
+
+
+		<div class="page-content">
+			<div class="about">
+			<div class="about-me">
+				<h2>My Life Story:</h2>
+				<p>	<img class="home-pic-1" src="img/david_linkedin.JPG">
+				Hi! My name is David Massart. I'm currently a freshman at Tufts University. My intended major is Computer Science and my intended minor is Japanese.
+				So far, the classes I have taken or am taking at Tufts are: Computer Science 11, Computer Science 15, Japanese 1, Japanese 2, Intro to Japanese Culture, Biosyntesis (ExCollege), Psychology 1, Calculus 1, and Exploring Tech (ExCollege).
+				<br></br>
+				<span style="font-size: 20px">Some Cool Things About Me:</span>
+				<br></br>
+				I am trillingual. I speak English, French, and Spanish fluently. I am currently learning how to speak Japanese at Tufts and know a little German from studying on my own. That being said, I am no stranger to foreign languages, which is useful when reaching out to or communicating with people who speaking a language other than English.
+				<br></br>
+				I believe that to be sucessful in life I need to accomplish four things:<br></br>
+				1) Write a book: I like books. I want to write a book. Maybe about Computer Science. Maybe not. I'll see.</br></br>
+				2) Plant a tree: Don't judge. Trees look cool.<br></br>
+				3) Have a startup: Since I was a kid, I wanted to have my own company (How naive I was). Now, I aspire to have my own startup (Still quite naive, but hopefully I'll make it work. Somehow).<br></br>
+				4) Have my own restaurant: For now, I would like to go to Japan and Switzerland to learn how to make ramen and "crepes". Oh, and "fondue", it's really good.<br></br>
+				<a id="passion4code" style="color: #3B3C3B; font-size: 20px;" href="passion">Read More: A Passion For Code?</a>
+
+				</p>
+
+				<p class="edits">EDIT: I've just created my own <a id="blog" href="blog">blog!</a> Go check it out!</p>
+
+			</div>
+			</div>
+
+
+
+	</div>
+
+
+	<div class="footer">
+		<div class="other-websites">
+		<h2>Other Websites</h2>
+		<div class="grow">
+		<a href="blog">My Blog!</a> <br></br>
+		<a href="Second website link">Sucasa Apartment in NYC</a> <br> </br>
+		</div>
+		</div>
+
+
+	<div class="social-media">
+		<a href="https://www.facebook.com/damassart"> <img class="facebook" src="img/facebooklogo.png" alt="Facebook Link"> </a>
+		<a href="https://www.linkedin.com/in/david-massart"> <img class="linkedin" src="img/linkedinlogo.png" alt="Linkedin Link"> </a>
+		<a href="https://github.com/dadapoof"> <img class="github" src="img/githublogo.png" alt="Github Link"> </a>
+		</div>
+		<p>&copy; 2018 All rights reserved. davidmassart.com</p>
+	</div>
+
+
+	</body>
+	</html>
